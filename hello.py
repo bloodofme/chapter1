@@ -1,0 +1,6 @@
+print("wo xi limpei")
+print("limpei ka li kong")
+print("lets get down to business, and defeat the hans")
+print("wo xi limpei")
+print("limpei ka li kong")
+print("lets get down to business, and defeat the hans")
